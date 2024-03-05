@@ -157,9 +157,9 @@ section{
     gap: 1.5rem;
 }
 .about-img img{
-    max-width: 530px;
+    max-width: 200px;
     height: auto;
-    width: 100%;
+    width: 50%;
     border-radius: 5px;
 }
 .about-text h2{
